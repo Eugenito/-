@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include <stdio.h>
+#include <stdio.h>            АХАХХАХАХАХАХААААААААААААААААААААААААААХХАХАХАХХАХАХАХА
 #include<locale.h>
 int main()
 {
